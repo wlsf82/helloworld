@@ -1,4 +1,7 @@
 # helloworld
+
+⚠️ **This project has been deprecated.** ⚠️
+
 basic hello world project to work with protractor and alerts.
 
 To run the protractor test that will accept the alert window, follow the below instructions:
